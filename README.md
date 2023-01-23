@@ -13,6 +13,6 @@ An app to know when her last meal was.
 The apk file must be downloaded and installed. The app only ran on Android devices
 
 # Pictures
-![log in](https://github.com/idavidkam/weDeliver/blob/master/log%20in.png?raw=true)
-![create account](https://github.com/idavidkam/weDeliver/blob/master/create%20account.png?raw=true)
-![pick packeges](https://github.com/idavidkam/weDeliver/blob/master/pick%20packeges.png?raw=true)
+![log in](https://user-images.githubusercontent.com/62956198/214006354-df9909b9-b8dd-40df-a2e6-59802d8671d3.png)
+![create account](https://user-images.githubusercontent.com/62956198/214006360-a3282a08-1679-4a9b-a356-5e931889d258.png)
+![pick packeges](https://user-images.githubusercontent.com/62956198/214006363-53ed30c2-2e15-4d09-ac03-ec430cbcd1b8.png)
