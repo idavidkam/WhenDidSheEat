@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">מתי שיר אכלה</string>
+    <string name="action_settings">הגדרות</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">מתי שיר אכלה</string>
+    <string name="second_fragment_label">היסטוריה</string>
+    <string name="next">לחצי כאן לראות היסטוריה מלאה</string>
+    <string name="previous">לחזרה למסך הראשי</string>
+    <string name="lastMeal">lastMeal</string>
+    <string name="serialNumber">serialNumber</string>
+
+    <string name="whenShirEat">
+        הארוחה האחרונה של שיר הייתה בשעה
+    </string>
+    <string name="whenShirNeedEat">הזמן ששיר צריכה לאכול הוא</string>
+    <string name="alartTitle">הקלדה ידנית</string>
+</resources>
